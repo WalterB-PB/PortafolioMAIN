@@ -96,7 +96,7 @@ with col2:
 with col3:
     mostrar_app(
         "Portafolio",
-        "Chat_pdf.png",
+        "gradiente.png",
         "En el siguiente enlace veremos un portafolio que reúne los proyectos y "
         "ejercicios desarrollados durante el curso.",
         "Portafolio",
