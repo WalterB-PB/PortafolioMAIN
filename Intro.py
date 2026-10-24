@@ -121,7 +121,7 @@ with col3:
         "https://aplicacionknn.streamlit.app/",
     )
     
-      mostrar_app(        
+    mostrar_app(        
           "Prueba de modelo(semana15)",
           "semana15.png",
           "En el siguiente enlace veremos diferentes metodos para medir el consumo energetico con programacion orientada a objetos  "
@@ -132,14 +132,14 @@ with col3:
           "https://semana15pruebamodelos.streamlit.app/",
     )
 
-      mostrar_app(        
+    mostrar_app(        
           "paralelismo",
           "Paralelismo.png",
           "En el siguiente enlace veremos conceptos en relacion del hardware y su funcionamiento "
           "hilos, procesos, vectorización con NumPy y la ley de Amdahl.",
           "https://paralelismoapp.streamlit.app/",
     )
-      mostrar_app(        
+    mostrar_app(        
           "Montaje vercel ",
           "Serverless.png",
           "En el siguiente enlace podremos ver el montaje vercel "
