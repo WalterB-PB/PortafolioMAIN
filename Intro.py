@@ -120,8 +120,9 @@ with col3:
         "KNN",
         "https://aplicacionknn.streamlit.app/",
     )
+    with col4:
     
-    mostrar_app(
+     mostrar_app(
         "Prueba de modelo (semana 15)",
         "Semana15.png",
         "En el siguiente enlace veremos diferentes métodos para medir el consumo energético "
@@ -131,7 +132,7 @@ with col3:
         "https://semana15pruebamodelos.streamlit.app/",
     )
 
-    mostrar_app(
+     mostrar_app(
         "Paralelismo",
         "Paralelismo.png",
         "En el siguiente enlace veremos conceptos sobre el hardware y su funcionamiento: "
@@ -140,7 +141,7 @@ with col3:
         "https://paralelismoapp.streamlit.app/",
     )
 
-    mostrar_app(
+     mostrar_app(
         "Montaje Vercel",
         "Serverless.png",
         "En el siguiente enlace podremos ver el montaje en Vercel, para entender cómo "
