@@ -17,7 +17,7 @@ def mostrar_app(titulo, imagen, descripcion, etiqueta, url, ancho=230):
     st.write(f"{etiqueta}: [Enlace]({url})")
  
  
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4 = st.columns(4)
  
 with col1:
     mostrar_app(
