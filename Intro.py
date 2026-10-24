@@ -125,9 +125,9 @@ with col3:
         "Prueba de modelo(semana15)",
         "semana15.png",
         "En el siguiente enlace veremos diferentes metodos para medir el consumo energetico con programacion orientada a objetos  "
-        "modelos como."
-        "Flujo Modelo"
-        "Estandarizacion"
+        "modelos como.",
+        "Flujo Modelo",
+        "Estandarizacion",
         "Regresion Lineal",
         "https://semana15pruebamodelos.streamlit.app/",
     )
