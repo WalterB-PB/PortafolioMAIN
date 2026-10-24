@@ -121,31 +121,30 @@ with col3:
         "https://aplicacionknn.streamlit.app/",
     )
     
-    mostrar_app(        
-        "Prueba de modelo(semana15)",
+        mostrar_app(
+        "Prueba de modelo (semana 15)",
         "semana15.png",
-        "En el siguiente enlace veremos diferentes metodos para medir el consumo energetico con programacion orientada a objetos ",
-        "modelos como.",
-        "Flujo Modelo",
-        "Estandarizacion",
-        "Regresion Lineal",
+        "En el siguiente enlace veremos diferentes métodos para medir el consumo energético "
+        "con programación orientada a objetos, con modelos como flujo de modelo, "
+        "estandarización y regresión lineal.",
+        "Semana 15",
         "https://semana15pruebamodelos.streamlit.app/",
     )
 
-    mostrar_app(        
-        "paralelismo",
+    mostrar_app(
+        "Paralelismo",
         "Paralelismo.png",
-        "En el siguiente enlace veremos conceptos en relacion del hardware y su funcionamiento "
+        "En el siguiente enlace veremos conceptos sobre el hardware y su funcionamiento: "
         "hilos, procesos, vectorización con NumPy y la ley de Amdahl.",
+        "Paralelismo",
         "https://paralelismoapp.streamlit.app/",
     )
-    mostrar_app(        
-        "Montaje vercel ",
+
+    mostrar_app(
+        "Montaje Vercel",
         "Serverless.png",
-        "En el siguiente enlace podremos ver el montaje vercel "
-        "Estableciendo conocimientos de como funciona un serverless como lo es vercel",
-        "https://app-lluvia-mu.vercel.app/",
-        "LLuvia KNN",
+        "En el siguiente enlace podremos ver el montaje en Vercel, para entender cómo "
+        "funciona un serverless como Vercel.",
+        "Lluvia KNN",
         "https://app-lluvia-knn-lemon.vercel.app/",
     )
-
