@@ -121,7 +121,7 @@ with col3:
         "https://aplicacionknn.streamlit.app/",
     )
     
-  mostrar_app(
+  mostrar_app(    
         "Prueba de modelo(semana15)",
         "semana15.png",
         "En el siguiente enlace veremos diferentes metodos para medir el consumo energetico con programacion orientada a objetos  "
