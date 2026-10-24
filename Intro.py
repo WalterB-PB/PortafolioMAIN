@@ -145,7 +145,7 @@ with col3:
         "En el siguiente enlace podremos ver el montaje vercel "
         "Estableciendo conocimientos de como funciona un serverless como lo es vercel",
         "https://app-lluvia-mu.vercel.app/",
-        "LLuvia KNN,
+        "LLuvia KNN",
         "https://app-lluvia-knn-lemon.vercel.app/",
     )
 
